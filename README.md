@@ -6,7 +6,7 @@ The dataset contains **10,500 utterances** across **30 intent classes**, with **
 
 NIYYAH was designed to support reproducible evaluation of intent classification systems across dialects and model families.
 
-The dataset is publicly released before submission of the associated research paper to support transparency, reproducibility, and reuse by the research community
+The dataset is publicly released before submission of the associated research paper to support transparency, reproducibility, and reuse by the research community.
 
 ---
 
