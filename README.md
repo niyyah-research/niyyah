@@ -288,23 +288,6 @@ Update this URL if the final GitHub account or repository name differs.
 
 ## Associated Research Paper
 
-NIYYAH was developed as part of the research study:
-
-**A Human-Validated Saudi Arabic Intent Benchmark Dataset with Leakage-Aware Splits and Evaluation Across Dialects and Model Families**
-
-The dataset is publicly released before submission of the associated paper to support transparency, reproducibility, and reuse.
-
-The study presents the dataset construction process, human validation, leakage-aware splitting methodology, benchmark experiments across different model families, and evaluation across Saudi Arabic language varieties.
-
-**Venue:** MCAIT 2026
-
-**Paper status:** Under submission
-
-**Paper URL:** To be added after publication
-
-**Paper DOI:** To be added after publication
-
-Once the paper is formally published, the complete paper citation will be added to this repository.
 
 ---
 
@@ -316,18 +299,7 @@ Until the associated paper is formally published, use the dataset citation provi
 
 ### BibTeX
 
-~~~bibtex
-@dataset{niyyah2026,
-  author = {Alawfi, Mohammed A. and
-            Almutairi, Abdulrahman M. and
-            Althibyani, Yasser M. and
-            Moawad, Ibrahim F.},
-  title = {NIYYAH: A Human-Validated Saudi Arabic Intent Benchmark Dataset},
-  year = {2026},
-  publisher = {[Repository Name]},
-  url = {[Dataset URL]},
-  doi = {[Dataset DOI]}
-}
+
 ~~~
 
 Replace the repository name, URL, and DOI with the final release information.
